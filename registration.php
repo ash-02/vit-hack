@@ -3,8 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>registration</title>
-        <link rel="stylesheet" href="registration.css">
-        <link rel="stylesheet" href="ease.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
